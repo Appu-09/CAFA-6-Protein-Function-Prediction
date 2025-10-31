@@ -24,6 +24,21 @@ Each protein can have multiple functions, making this a multi-label classificati
 
 - All files were obtained from Kaggle’s competition data portal.
 
+  **Technologies Used**
+- Python 3.12
+
+- Google Colab (for computation and model training)
+
+- Scikit-learn – Machine Learning models & metrics
+
+- Pandas / NumPy – Data manipulation
+
+- BioPython – Parsing FASTA protein sequences
+
+- Matplotlib – (optional) for visualizations
+
+- Git & GitHub – Version control and project hosting
+
 ⚙️**Approach**
 
 - Data Preprocessing
