@@ -60,11 +60,11 @@ Macro F1 = 0.0071
 
 - A submission file submission.tsv was generated containing:
 
-Protein_ID    GO_ID       Score
+Protein_ID        GO_ID          Score
 
-P9WHI7        GO:0009274  0.931
+P9WHI7          GO:0009274        0.931
 
-P9WHI7        GO:0071944  0.540
-
+P9WHI7          GO:0071944        0.540
+   
 
 Final Kaggle Public Leaderboard Score: 0.102
