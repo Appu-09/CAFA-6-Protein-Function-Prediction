@@ -24,7 +24,7 @@ Each protein can have multiple functions, making this a multi-label classificati
 
 - All files were obtained from Kaggle’s competition data portal.
 
-  **Technologies Used**
+ **Technologies Used**
 - Python 3.12
 
 - Google Colab (for computation and model training)
